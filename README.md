@@ -1,4 +1,4 @@
-<p align="center"><h1> <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/Lavin-tom/chatgpt-prompts/blob/main/assets/chatgpt.svg" height="40px"> </a>ChatGPT Prompts</h1></p>
+<p align="center"><h1> <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/Lavin-tom/chatgpt-prompts/tree/prompts/assets/chatgpt.svg" height="40px"> </a>ChatGPT Prompts</h1></p>
 
 This repo is the fork of [Awesome chatgpt prompts](https://github.com/f/awesome-chatgpt-prompts)
 
