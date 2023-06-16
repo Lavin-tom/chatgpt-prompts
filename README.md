@@ -1,4 +1,4 @@
-<p align="center"><h1> <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/Lavin-tom/chatgpt-prompts/tree/prompts/assets/chatgpt.svg" height="40px"> </a>ChatGPT Prompts</h1></p>
+<p align="center"><h1> <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/Lavin-tom/chatgpt-prompts/blob/prompts/assets/chatgpt.svg" height="30px"> </a>ChatGPT Prompts</h1></p>
 
 This repo is the fork of [Awesome chatgpt prompts](https://github.com/f/awesome-chatgpt-prompts)
 
@@ -6,7 +6,7 @@ Welcome to the "ChatGPT Prompts" repository! This is a collection of prompt exam
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/lavin-tom/chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/Lavin-tom/chatgpt-prompts/blob/prompts/README.md) to the list, and to use ChatGPT to generate new prompts as well.
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
