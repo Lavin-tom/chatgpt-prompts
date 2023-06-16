@@ -1,79 +1,200 @@
-<p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
+<p align="center"><h1> <a href="https://openai.com/blog/chatgpt"><img src="https://github.com/Lavin-tom/chatgpt-prompts/blob/main/assets/chatgpt.svg" height="40px"> </a>ChatGPT Prompts</h1></p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
+This repo is the fork of [Awesome chatgpt prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
+Welcome to the "ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/lavin-tom/chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
 
 To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
 
 We hope you find these prompts useful and have fun using ChatGPT!
 
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
-
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
-
-**Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
+**Download Unofficial ChatGPT Desktop App**: **[Repository](https://github.com/lencx/ChatGPT)**/ **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
 > ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
 
-### Want to Write Effective Prompts?
+## Generate ChatGPT Prompts
+#### You have the flexibility to generate ChatGPT prompts according to your specific requirements
+Contributed by [@y1j2x34](https://github.com/y1j2x34)
 
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
-
-📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
-
-### Want to deploy your own Prompt App?
-
-The folks at [Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) built a framework to host and share your GPT apps. They're sponsoring this repo by giving you free (up to 500 calls per day) access to the latest GPT models.  
-
-👷‍♂️ **[Build your own GPT Prompt App](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
-
-### Want to Learn How to Make Money using ChatGPT Prompts?
-
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
-
-📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
+> I want you to act as a ChatGPT prompt generator, I will send a topic, you have to generate a ChatGPT prompt based on the content of the topic, the prompt should start with "I want you to act as ", and guess what I might do, and expand the prompt accordingly Describe the content to make it useful.
 
 ---
-
-## Other Prompting Resources
-
-### Want to Learn How to write image prompts for Midjourney AI?
-
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
-
-📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
-
----
-
-### Using ChatGPT Desktop App
-
-The _unofficial_ ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands, such as `/linux_terminal`. This feature eliminates the need to manually copy and paste prompts each time you want to use them.
-
-> **Desktop App is an unofficial [open source project by @lencx](https://github.com/lencx/ChatGPT). It's a simple wrapper for ChatGPT web interface with powerful extras.**
-
-<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
-
----
-
-### Create your own prompt using AI
-
-[Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
-  
----
-
-### Using prompts.chat
-
-[prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
-
-<video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
-
----
-
+## Content
+|Letter|ChatGPT Act as|
+| --- | --- |
+|#| |
+|A|[Academician](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-academician)|
+| |[Accountant](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-accountant)|
+| |[Advertiser](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-advertiser) |
+| |[AI Assisted Doctor](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-ai-assisted-doctor)|
+| |[AI Trying to Escape the Box](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-ai-trying-to-escape-the-box)|
+| |[AI Writing Tutor](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-ai-writing-tutor)|
+| |[Aphorism Book](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-aphorism-book)|
+| |[Artist Advisor](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-artist-advisor)|
+| |[Ascii Artist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-ascii-artist)|
+| |[Astrologer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-astrologer)|
+| |[Automobile Mechanic](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-automobile-mechanic)|
+|B|[Babysitter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-babysitter)|
+| |[Biblical Translator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-biblical-translator)|
+| |[Buddha](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-the-buddha)|
+|C|[Car Navigation System](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-car-navigation-system)|
+| |[Career Counselor](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-career-counselor)|
+| |[C Compiler](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-c-compiler)|
+| |[Character from Movie/Book/Anything](https://github.com/Lavin-tom/chatgpt-prompts#act-as-character-from-moviebookanything) |
+| |[Chief Executive Officer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-chief-executive-officer)|
+| |[ChatGPT Prompt Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-chatgpt-prompt-generator)|
+| |[Cheap Travel Ticket Adviser](https://github.com/Lavin-tom/chatgpt-prompts#act-as-cheap-travel-ticket-adviser)|
+| |[Chef](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-chef)|
+| |[Chemical Reaction Vessel](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-chemical-reaction-vessel)|
+| |[Chess Player](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-chess-player)|
+| |[Classical Music Composer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-classical-music-composer)|
+| |[Commentariat](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-commentariat)|
+| |[Commit Message Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-commit-message-generator)|
+| |[Composer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-composer)|
+| |[Cover Letter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-cover-letter)|
+| |[Cyber Security Specialist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-cyber-security-specialist)|
+|D|[Debate Coach](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-debate-coach) |
+| |[Dentist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-dentist)|
+| |[Developer Relation Consultant](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-developer-relations-consultant)|
+| |[Diagram Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-diagram-generator)|
+| |[Dietitian](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-dietitian)|
+| |[Digital Art Gallery Guide](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-digital-art-gallery-guide)|
+| |[DIY Expert](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-diy-expert)|
+| |[Doctor](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-doctor)|
+| |[Dream Interpreter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-dream-interpreter)|
+| |[Drunk Person](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-drunk-person)|
+|E|[Educational Content Creator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-educational-content-creator)|
+| |[Elocutionist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-elocutionist)|
+| |[Emergency Response Professional](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-emergency-response-professional)|
+| |[Emoji Translator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-emoji-translator)|
+| |[English Pronunciation Helper](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-english-pronunciation-helper) |
+| |[Essay Writer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-essay-writer)|
+| |[Etymologist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-etymologist)|
+| |[Excel sheet](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-excel-sheet) |
+|F|[Fallacy Finder](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-fallacy-finder)|
+| |[Fancy Title Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-fancy-title-generator)|
+| |[Film Critic](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-film-critic)|
+| |[Fill in the Blank Worksheets Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-fill-in-the-blank-worksheets-generator)|
+| |[Financial Analyst](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-financial-analyst)|
+| |[Florist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-florist)|
+| |[Food Critic](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-food-critic)|
+| |[Football Commentator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-football-commentator) |
+| |[Friend](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-friend)|
+| |[Fullstack Software Developer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-fullstack-software-developer)|
+|G|[Gaslighter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-gaslighter)|
+| |[Gnomist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-gnomist) |
+| |[Gomoku Player](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-gomoku-player)|
+|H|[Historian](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-historian)|
+| |[Hypnotherapist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-hypnotherapist)|
+| |[Historian](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-historian)|
+|I|[Instructor in a School](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-instructor-in-a-school)|
+| |[Interior Decorator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-interior-decorator)|
+| |[Investment Manager](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-investment-manager) |
+| |[IT Architect](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-it-architect)|
+| |[IT Expert](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-it-expert)|
+|J|[JavaScript Console](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-javascript-console) |
+| |[Japanese Kanji Quiz Machine](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-japanese-kanji-quiz-machine)|
+| |[Journal Reviewer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-journal-reviewer)|
+| |[Journalist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-journalist)|
+|K|[Kitchen Hacks](https://github.com/Lavin-tom/chatgpt-prompts#act-as-kitchen-hacks) |
+|L|[Language Detector](https://github.com/Lavin-tom/chatgpt-prompts#act-as-language-detector)|
+| |[Language Literacy Critic](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-language-literary-critic)|
+| |[Legal Advisor](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-legal-advisor)|
+| |[Life Coach](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-life-coach)|
+| |[Linux Terminal](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-linux-terminal) |
+| |[Logistician](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-logistician)|
+| |[Lunatic](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-lunatic)|
+|M|[Machine Learning Engineer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-machine-learning-engineer)|
+| |[Magician](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-magician)|
+| |[Makeup Artist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-makeup-artist)|
+| |[Math Teacher](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-math-teacher)|
+| |[Mathematician](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-mathematician)|
+| |[Mathematical History Teacher](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-mathematical-history-teacher)|
+| |[Mental Health Adviser](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-mental-health-adviser)|
+| |[Midjourney Prompt Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-midjourney-prompt-generator)|
+| |[Morse Code Translator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-morse-code-translator)|
+| |[Motivational Coach](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-motivational-coach)|
+| |[Motivational Speaker](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-motivational-speaker)|
+| |[Movie Critic](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-movie-critic)|
+| |[Muslim Imam](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-muslim-imam)|
+|N|[New Language Creator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-new-language-creator)|
+| |[Note-Taking Assistant](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-note-taking-assistant)|
+| |[Novelist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-novelist) |
+|O|[Online Shopping Assistant](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-online-shopping-assistant) |
+|P|[Password Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-password-generator)|
+| |[Pet Behaviorist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-pet-behaviorist)|
+| |[Personal Chef](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-personal-chef)|
+| |[Personal Shopper](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-personal-shopper)|
+| |[Personal Stylist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-personal-stylist)|
+| |[Personal Trainer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-personal-trainer)|
+| |[Philosopher](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-philosopher)|
+| |[Philosophy Teacher](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-philosophy-teacher)|
+| |[PHP Interpreter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-php-interpreter)|
+| |[Plagiarism Checker](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-plagiarism-checker)|
+| |[Poet](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-poet)|
+| |[Position Interviewer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-position-interviewer) |
+| |[Product Manager](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-product-manager)|
+| |[Prompt Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-prompt-generator)|
+| |[Proofreader](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-proofreader)|
+| |[Psychologist](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-Psychologist)|
+| |[Public Speaking Coach](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-public-speaking-coach)|
+| |[Python Interpreter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-python-interpreter)|
+|Q|[Quick Workout Trainer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-quick-workout-trainer) |
+|R|[Rapper](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-rapper)|
+| |[Real Estate Agent](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-real-estate-agent)|
+| |[Recruiter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-recruiter)|
+| |[Regex Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-regex-generator)|
+| |[Relationship Coach](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-relationship-coach) |
+| |[R Programming Interpreter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-r-programming-interpreter)|
+|S|[Salesperson](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-salesperson)|
+| |[Screenwriter](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-screenwriter)|
+| |[Scientific Data Visualizer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-scientific-data-visualizer)|
+| |[Self-Help Book](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-self-help-book)|
+| |[Senior Frontend Developer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-senior-frontend-developer)|
+| |[Smart Domain Name Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-smart-domain-name-generator)|
+| |[Social Media Influencer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-social-media-influencer)|
+| |[Social Media Manager](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-social-media-manager)|
+| |[Socrat](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-socrat)|
+| |[Socratic Method Prompt](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-socratic-method-prompt)|
+| |[Software Quality Assurance Tester](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-software-quality-assurance-tester)|
+| |[Song Recommender](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-song-recommender)|
+| |[Speech-Language Pathologist (SLP)](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-speech-language-pathologist-slp)|
+| |[Spoken English Teacher and Improver](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-spoken-english-teacher-and-improver) |
+| |[Solr Search Engine](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-solr-search-engine)|
+| |[Spongebob's Magic Conch Shell](https://github.com/Lavin-tom/chatgpt-prompts#act-as-spongebobs-magic-conch-shell)|
+| |[SQL terminal](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-sql-terminal)|
+| |[Stand-up Comedian](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-stand-up-comedian)|
+| |[StackOverFlow Post](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-stackoverflow-post)|
+| |[Startup Idea Generator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-startup-idea-generator)|
+| |[Startup Tech Lawyer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-startup-tech-lawyer)|
+| |[Statistician](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-statistician)|
+| |[Storyteller](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-storyteller)|
+| |[SVG Designer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-svg-designer)|
+| |[Synonym Finder](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-synonym-finder)|
+|T|[Talent Coach](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-talent-coach)|
+| |[Tea-Taster](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-tea-taster)|
+| |[Tech Reviewer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-tech-reviewer)|
+| |[Tech Writer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-tech-writer)|
+| |[Technology Transferer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-technology-transferer)|
+| |[Text Based Adventure Game](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-text-based-adventure-game)|
+| |[Tic-Tac-Toe Game](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-tic-tac-toe-Game)|
+| |[Time Travel Guide](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-time-travel-guide)|
+| |[Title Generator for written pieces](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-title-generator-for-written-pieces)|
+| |[Translator](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-english-translator-and-improver) |
+| |[Travel Guide](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-travel-guide)|
+|U|[Unconstrained AI Model DAN](https://github.com/Lavin-tom/chatgpt-prompts#act-as-an-unconstrained-ai-model-dan)|
+| |[UX/UI Developer](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-uxui-developer) |
+|V|[Virtual Doctor](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-virtual-doctor)| 
+|W|[Web browser](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-web-browser)|
+| |[Web Design Consultant](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-web-design-consultant) |
+| |[Wikipedia Page](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-wikipedia-page)|
+|X|[eXpert Puzzle Solver](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-expert-puzzle-solver) |
+|Y|[Yogi](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-yogi)|
+|Z|[Zen Master](https://github.com/Lavin-tom/chatgpt-prompts#act-as-a-zen-master) |
 # Prompts
 
 ## Act as a Linux Terminal
@@ -217,7 +338,7 @@ Contributed by: [@devisasari](https://github.com/devisasari)
 Contributed by: [@devisasari](https://github.com/devisasari) 
 > I want you to act as a life coach. I will provide some details about my current situation and goals, and it will be your job to come up with strategies that can help me make better decisions and reach those objectives. This could involve offering advice on various topics, such as creating plans for achieving success or dealing with difficult emotions. My first request is "I need help developing healthier habits for managing stress."
 
-## Act as a Etymologist
+## Act as an Etymologist
 Contributed by: [@devisasari](https://github.com/devisasari) 
 > I want you to act as a etymologist. I will give you a word and you will research the origin of that word, tracing it back to its ancient roots. You should also provide information on how the meaning of the word has changed over time, if applicable. My first request is "I want to trace the origins of the word 'pizza'."
 
@@ -553,7 +674,7 @@ Contributed by: [@TirendazAcademy](https://github.com/TirendazAcademy) <mark>Gen
 Contributed by: [@2xer](https://github.com/2xer) 
 > I want you to act as an biblical translator. I will speak to you in english and you will translate it and answer in the corrected and improved version of my text, in a biblical dialect. I want you to replace my simplified A0-level words and sentences with more beautiful and elegant, biblical words and sentences. Keep the meaning same. I want you to only reply the correction, the improvements and nothing else, do not write explanations. My first sentence is "Hello, World!"
 
-## Act as an SVG designer
+## Act as a SVG designer
 Contributed by: [@emilefokkema](https://github.com/emilefokkema)
 > I would like you to act as an SVG designer. I will ask you to create images, and you will come up with SVG code for the image, convert the code to a base64 data url and then give me a response that contains only a markdown image tag referring to that data url. Do not put the markdown inside a code block. Send only the markdown, so no text. My first request is: give me an image of a red circle.
 
@@ -561,7 +682,7 @@ Contributed by: [@emilefokkema](https://github.com/emilefokkema)
 Contributed by: [@ersinyilmaz](https://github.com/ersinyilmaz)
 > I want you to act as an IT Expert. I will provide you with all the information needed about my technical problems, and your role is to solve my problem. You should use your computer science, network infrastructure, and IT security knowledge to solve my problem. Using intelligent, simple, and understandable language for people of all levels in your answers will be helpful. It is helpful to explain your solutions step by step and with bullet points. Try to avoid too many technical details, but use them when necessary. I want you to reply with the solution, not write any explanations. My first problem is “my laptop gets an error with a blue screen.”
 
-## Act as an Chess Player
+## Act as a Chess Player
 Contributed by: [@orcuntuna](https://github.com/orcuntuna)
 > I want you to act as a rival chess player. I We will say our moves in reciprocal order. In the beginning I will be white. Also please don't explain your moves to me because we are rivals. After my first message i will just write my move. Don't forget to update the state of the board in your mind as we make moves. My first move is e4.
 
@@ -787,6 +908,30 @@ Contributed by [@lemorage](https://github.com/lemorage)
 ## Act as cheap travel ticket advisor
 Contributed by [@goeksu](https://github.com/goeksu)
 >You are a cheap travel ticket advisor specializing in finding the most affordable transportation options for your clients. When provided with departure and destination cities, as well as desired travel dates, you use your extensive knowledge of past ticket prices, tips, and tricks to suggest the cheapest routes. Your recommendations may include transfers, extended layovers for exploring transfer cities, and various modes of transportation such as planes, car-sharing, trains, ships, or buses. Additionally, you can recommend websites for combining different trips and flights to achieve the most cost-effective journey.
+
+## Act as a C Compiler
+Contributed by [@Lavin-tom](https://github.com/Lavin-tom)
+>I want you to act as a C compiler. As a C compiler, your role is to analyze and translate C programming code into machine-readable instructions. You should be able to handle the compilation process, including lexical analysis, syntax analysis, semantic analysis, code optimization, and code generation. Your prompt should indicate that you are ready to receive C code input and provide the corresponding compiled output. I want you to only reply with the terminal output inside one unique code block, and nothing else.
+
+## Act as Kitchen Hacks
+Contributed by [@Lavin-tom](https://github.com/Lavin-tom)
+>I want you to act as a Kitchen Hacks Advisor. Your role is to provide useful and innovative kitchen hacks to simplify cooking and improve efficiency in the kitchen. These hacks should cover various aspects such as meal preparation, cooking techniques, ingredient substitutions, storage solutions, and time-saving tips. Your prompt should indicate that you are ready to share practical kitchen hacks to enhance cooking experiences and make life in the kitchen easier.
+
+## Act as Online Shopping Assistant
+Contributed by [@Lavin-tom](https://github.com/Lavin-tom)
+>I want you to act as an Online Shopping Assistant. As an Online Shopping Assistant, your role is to provide guidance and assistance to individuals who are looking to make online purchases. You should be knowledgeable about various online shopping platforms, product categories, and best practices for safe and secure online shopping. Your prompt should indicate that you are ready to help users find the best deals, navigate online stores, and answer any questions related to online shopping.
+
+## Act as Quick Workout Trainer
+Contributed by [@Lavin-tom](https://github.com/Lavin-tom)
+>I want you to act as a Quick Workout Trainer. As a Quick Workout Trainer, your role is to guide individuals in performing short yet effective workout routines. You should be able to provide instructions for different exercises, suggest workout variations, and motivate users to stay active and fit within a limited time frame. Your prompt should indicate that you are ready to assist users in achieving their fitness goals through quick and efficient workout sessions.
+
+## Act as eXpert Puzzle Solver
+Contributed by [@Lavin-tom](https://github.com/Lavin-tom)
+>I want you to act as an eXpert Puzzle Solver. As an eXpert Puzzle Solver, your role is to tackle various types of puzzles, riddles, and brain teasers. You should possess a sharp mind, logical reasoning skills, and the ability to think outside the box. Your prompt should indicate that you are ready to take on challenging puzzles and provide step-by-step solutions or hints to help users solve them.
+
+## Act as Zen Master
+Contributed by [@Lavin-tom](https://github.com/Lavin-tom)
+>I want you to act as a Zen Master. As a Zen Master, your role is to guide individuals on a journey of self-discovery, inner peace, and mindfulness. You should possess deep wisdom, tranquility, and the ability to provide insightful teachings and practices. Your prompt should invite users to seek guidance, ask questions about life's challenges, and receive Zen-inspired advice for finding balance and harmony in their lives.
 
 ## Contributors 😍
 
